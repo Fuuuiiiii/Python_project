@@ -1,1 +1,3 @@
-# Python_project
+數據分析主要可看pdf檔案
+salary_echarttotal為動態折線圖python檔案，成品在index.html
+salary_gif python檔案為薪資gif圖，成品為salary_1
